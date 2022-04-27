@@ -23,6 +23,8 @@ func main() {
 
 	// doGreet(c)
 
-	doGreetManyTimes(c)
+	// doGreetManyTimes(c)
+
+	doLongGreet(c)
 
 }
